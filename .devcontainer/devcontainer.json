@@ -1,7 +1,6 @@
 {
     "name": "Tutorial: stranger-builds-web-components-workshop",
     "image": "mcr.microsoft.com/devcontainers/javascript-node:1-22-bookworm",
-    "workspaceFolder": "/workspaces/tutorial-interactive_tutorials/tutorials/stranger-builds-web-components-workshop",
     "waitFor": "onCreateCommand",
     "updateContentCommand": "npm install",
     "postCreateCommand": "",
