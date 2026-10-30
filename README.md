@@ -38,4 +38,6 @@ You should now have everything you need to complete the workshop:
 > 
 > Once it successfully loads, you can click refresh in the workshop steps browser. 
 
+## Taking it further
+
 In addition to creating the credentials needed for a Video Call, the server also has endpoints that can be used for [Archiving/Recording](https://developer.vonage.com/en/video/guides/archiving/overview), [Broadcasting](https://developer.vonage.com/en/video/guides/broadcast/overview),  [SIP calls](https://developer.vonage.com/en/video/guides/sip-interconnect), [Captions](https://developer.vonage.com/en/video/guides/live-caption), and [Audio Connector](https://developer.vonage.com/en/video/guides/audio-connector). Feel free to explore the different functionalities for your project.
