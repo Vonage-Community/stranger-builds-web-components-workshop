@@ -1,0 +1,19 @@
+{
+  "name": "@example/starlight-basics",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "node download-toolbar.js && astro dev",
+    "start": "node download-toolbar.js && astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "start:tutorial": "http-server steps -p 1234 --cors -c-1",
+    "postinstall": "cd project && npm install"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
