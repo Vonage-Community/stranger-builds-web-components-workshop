@@ -30,4 +30,12 @@ You should now have everything you need to complete the workshop:
 - all the files needed for the workshop
 - application running in a separate tab
 
+<img width="1512" height="861" alt="image" src="https://github.com/user-attachments/assets/d27641cf-d0c1-4af7-9c0d-3a9713ade367" />
+
+> If the workshop steps do not load, here are some things to try:
+> - copy the URL that is above where the workshop steps should be and paste in a new tab
+> - click the ports tab next to the Terminal and right click "Tutorial Guide" and select "Open in Browser".
+> 
+> Once it successfully loads, you can click refresh in the workshop steps browser. 
+
 In addition to creating the credentials needed for a Video Call, the server also has endpoints that can be used for [Archiving/Recording](https://developer.vonage.com/en/video/guides/archiving/overview), [Broadcasting](https://developer.vonage.com/en/video/guides/broadcast/overview),  [SIP calls](https://developer.vonage.com/en/video/guides/sip-interconnect), [Captions](https://developer.vonage.com/en/video/guides/live-caption), and [Audio Connector](https://developer.vonage.com/en/video/guides/audio-connector). Feel free to explore the different functionalities for your project.
